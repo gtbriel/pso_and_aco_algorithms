@@ -17,4 +17,6 @@ where:
   gbf = global best fitness of function
 
 
-#ACO:
+## ACO:
+
+aco.py gets an NxN "fully-connected" matrix and find the best path, with its probs.
