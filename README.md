@@ -7,7 +7,7 @@ pso.py gets multiple parameters in order to maximize a specific function (in thi
 
 I use V(i+1) = (w * V(i)) + (c1 * r1 * (pbest - X(i))) + (c2 * r2 * (gbest - X(i))) for calculating the current speed and X(i+1) = X(i) + V(i+1)
 
-## where:
+### where:
 
   w = weight
   
