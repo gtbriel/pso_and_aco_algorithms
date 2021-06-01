@@ -9,11 +9,17 @@ and X(i+1) = X(i) + V(i+1)
 
 where:
   w = weight
+  
   V(x) = particles speed (vector)
+  
   X(x) = particles position (vector)
+  
   c1, c2, r1, r2 = predetermined constants
+  
   pbest = local best position (vector)
+  
   gbest = global best position
+  
   gbf = global best fitness of function
 
 
