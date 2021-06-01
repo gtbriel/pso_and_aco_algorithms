@@ -1,7 +1,7 @@
 # pso_and_aco_algorithms
 PSO and ACO algorithms (made for AI course)
 
-#PSO:
+## PSO:
 
 pso.py gets multiple parameters in order to maximize a specific function (in this case is f(x) = 1 + 2x + x^2)
 I use V(i+1) = (w * V(i)) + (c1 * r1 * (pbest - X(i))) + (c2 * r2 * (gbest - X(i))) for calculating the current speed
